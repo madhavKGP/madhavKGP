@@ -51,17 +51,3 @@ Focused on building scalable ML pipelines, training deep models from scratch, an
 **GenAI & CV:** GANs • Autoencoders • ConvNeXt • Segmentation  
 **Deployment:** FastAPI • Docker • Streamlit  
 **Data:** Pandas • NumPy • Feature Engineering  
-
----
-
-## 📊 GitHub Analytics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=madhavKGP&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhavKGP&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=madhavKGP&theme=tokyonight&hide_border=true)
-
----
-
-![](https://komarev.com/ghpvc/?username=madhavKGP&color=blueviolet&style=flat-square)
