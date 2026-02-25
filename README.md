@@ -15,7 +15,6 @@
 - Built a hierarchical ML system for steel phase prediction (Tata Steel)
 - Top 10% – Amazon ML Challenge (7k+ participants)
 - Deployed Pix2Pix GAN with FastAPI + Docker
-- Built multi-stage ML pipelines with XGBoost, PyTorch & Transformers
 
 ---
 
@@ -25,15 +24,6 @@
 **CV / GenAI:** GANs, Autoencoders, ConvNeXt, Segmentation  
 **Deployment:** FastAPI, Docker, Streamlit  
 **Data:** Pandas, NumPy, Feature Engineering  
-
----
-
-## 📌 Featured Projects
-
-🔹 Steel Phase Transformation Prediction  
-🔹 Satellite-to-Map Translation (Pix2Pix GAN)  
-🔹 Soil Classification using Generative AI  
-🔹 ML Competition Architectures  
 
 ---
 
